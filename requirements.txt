@@ -1,0 +1,8 @@
+pymongo
+neo4j
+py2neo
+pandas
+numpy
+scipy
+matplotlib
+faker
